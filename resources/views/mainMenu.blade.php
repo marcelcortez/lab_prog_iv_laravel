@@ -25,7 +25,7 @@
             Cliente
           </button>
           <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-            <a class="dropdown-item" href="cadcliente.html">Cadastrar</a>
+            <a class="dropdown-item" href="{{route("cadCliente")}}">Cadastrar</a>
             <a class="dropdown-item" href="#">Localizar</a>
           </div>
         </div>
